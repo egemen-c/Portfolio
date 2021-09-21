@@ -7,7 +7,7 @@
     <h2>JUNİOR FULL-STACK DEVELOPER & DESİGNER BASED IN ANKARA</h2>
     </div>
     <ul class="links">
-      <li><a href="">EMAİL</a></li>
+      <li><a href="mailto:egemencelikx@gmail.com">EMAİL</a></li>
       <li><a href="">GİTHUB</a></li>
       <li><a href="">LİNKEDİN</a></li>
       <li><a href="">UPWORKS</a></li>
