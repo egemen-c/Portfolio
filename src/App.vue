@@ -1,4 +1,5 @@
 <template>
+<div class="preloader"> <img class="preloader-icon" src="144.gif" alt="My Site Preloader"> </div>
   <div class="container">
     <div class="head">
     <h1>EGEMEN<span class="break">ÇELİK</span></h1>
@@ -21,11 +22,32 @@ export default {
   name: 'App',
   components: {
 
+  },
+  mounted () {
+    this.pageload()
+  },
+  methods: {
+    pageload () {
+      document.querySelector('.preloader').style.display = 'none'
+    }
   }
 }
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Unica+One&display=swap');
+        .preloader{
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
+        }
+        .preloader>img>{
+            width: 250px;
+            z-index: 2;
+            height: 250px;
+        }
 .container{
   width: 100%;
   height: 100vh;
