@@ -5,7 +5,7 @@
     <h1>EGEMEN<span class="break">ÇELİK</span></h1>
     </div>
     <div class="alt">
-    <h2>JUNİOR FULL-STACK DEVELOPER & DESİGNER BASED IN ANKARA</h2>
+    <h2>JUNİOR FRONT-END DEVELOPER & DESİGNER BASED IN ANKARA</h2>
     </div>
     <ul class="links">
       <li><a href="mailto:egemencelikx@gmail.com">EMAİL</a></li>
