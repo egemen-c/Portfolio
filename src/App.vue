@@ -9,9 +9,9 @@
     </div>
     <ul class="links">
       <li><a href="mailto:egemencelikx@gmail.com">EMAİL</a></li>
-      <li><a href="">GİTHUB</a></li>
-      <li><a href="">LİNKEDİN</a></li>
-      <li><a href="">UPWORKS</a></li>
+      <li><a href="https://github.com/egemen-c">GİTHUB</a></li>
+      <li><a href="https://www.linkedin.com/in/egemen-çelik-ab7916160/">LİNKEDİN</a></li>
+      <li><a href="https://bionluk.com/egemenceelik">BİONLUK</a></li>
     </ul>
   </div>
 </template>
